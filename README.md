@@ -20,10 +20,10 @@ O objetivo deste espaço é documentar a resolução de problemas lógicos e o a
 As atividades estão organizadas de forma cronológica, seguindo o cronograma das aulas. Cada arquivo contém os exercícios e desafios propostos naquele dia:
 
 
-* **Atividades_Aula_01** 
+* **Atividades_Aula_01** - Calculadora IMC -
+* Desenvolvimento de uma calculadora do Indice de Massa Corporal.
+  
 * **Atividades_Aula_02** 
-
-*(E assim por diante...)*
 
 ---
 
